@@ -15,7 +15,7 @@ SECRET_KEY = os.getenv('SECRET_KEY', '123')
 DEBUG = False
 
 # hosts permitidos (heroku)
-ALLOWED_HOSTS = ['*', 'entrevistarafael.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['cadusuario.herokuapp.com', '127.0.0.1']
 
 # Application definition
 
